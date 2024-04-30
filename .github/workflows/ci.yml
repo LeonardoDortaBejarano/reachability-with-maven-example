@@ -33,6 +33,3 @@ jobs:
           - name: Run Analysis (in debug mode) (and output mode)
             run: |
                 fossa analyze -o --debug
-                fossa test
-                fossa report attribution --format spdx-json
-                ls -l
