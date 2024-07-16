@@ -54,6 +54,12 @@
         <version>28.1-jre</version>
     </dependency>
 
+    <dependency> <!-- has cve -->
+        <groupId>com.thoughtworks.xstream</groupId>
+        <artifactId>xstream</artifactId>
+        <version>1.0.1</version>
+    </dependency>
+
   </dependencies>
 
   <build>
