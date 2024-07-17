@@ -1,4 +1,6 @@
 # reachability-with-maven-example
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLeonardoDortaBejarano%2Freachability-with-maven-example.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FLeonardoDortaBejarano%2Freachability-with-maven-example?ref=badge_shield)
+
 
 This repository includes example project for reachability walkthrough.
 
@@ -21,3 +23,6 @@ This repository includes example project for reachability walkthrough.
 ```
 
 You can also refer to example in our [CI](./.github/workflows/ci.yml).
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLeonardoDortaBejarano%2Freachability-with-maven-example.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FLeonardoDortaBejarano%2Freachability-with-maven-example?ref=badge_large)
